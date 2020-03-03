@@ -3,8 +3,6 @@ window.addEventListener('DOMContentLoaded', function() {
 
     'use strict';
 
-    
-
     let deadLine = '2020-03-03';
 
     function getTimeRemaining(endtime) {
